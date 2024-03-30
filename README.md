@@ -1,6 +1,6 @@
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw1tsiHWSGXz-lL7B8GsrBIk&ust=1711888759935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPio49yAnIUDFQAAAAAdAAAAABAJ)
+![Logo]("C:\Users\Sujit\Downloads\download.jpeg")
 <h1 align="center">Hi 👋, I'm Sakshi Shaw</h1>
-<h3 align="center">Welcome to my GitHub page! The repository serves as a showcase for my work as a Data Scientist. Here you will find a collection of projects through which you can learn and skill yourself.</h3>
+<h3 align="center">Welcome to my GitHub Profile! The repository serves as a showcase for my work as a Data Scientist. Here you will find a collection of projects through which you can learn and skill yourself.</h3>
 <img align="right"alt="coding"width="400"src="C:\Users\Sujit\Downloads\lottie-000_1_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshishaw321&label=Profile%20views&color=0e75b6&style=flat" alt="sakshishaw321" /> </p>
