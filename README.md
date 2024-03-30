@@ -5,8 +5,8 @@
 <img align ="right"  width="400" src="https://github.com/SakshiShaw321/SakshiShaw321/assets/163022695/1a668349-2ca9-45f9-bed3-c1cd92c955a5"
 
 
-<h3 align="left">About Me:</h3>
--I am open to collaboration. If you have any questions, suggestions, or would like to discuss a potential project, feel free to reach out to me 📫 **sakshishaw2002@gmail.com**
+<h1 align="centre">About Me</h1>
+<h3 align="left">I am open to collaboration. If you have any questions, suggestions, or would like to discuss a potential project, feel free to reach out to me 📫**sakshishaw2002@gmail.com**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
