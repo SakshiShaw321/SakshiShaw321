@@ -1,3 +1,5 @@
+![image](https://github.com/SakshiShaw321/SakshiShaw321/assets/163022695/52806e06-3391-4e28-868b-df38257f33ed)
+
 <h1 align="center">Hi 👋, I'm Sakshi Shaw</h1>
 <h3 align="center">Welcome to my GitHub page! The repository serves as a showcase for my work as a Data Scientist. Here you will find a collection of projects through which you can learn and skill yourself.</h3>
 
