@@ -1,7 +1,10 @@
-![image](https://github.com/SakshiShaw321/SakshiShaw321/assets/163022695/52806e06-3391-4e28-868b-df38257f33ed)
+<h align="center">![d481f3c72e283309071f79e01b05c06d](https://github.com/SakshiShaw321/SakshiShaw321/assets/163022695/db169c36-5c36-4dbe-a7d7-905ffbf85cd3)
 
 <h1 align="center">Hi 👋, I'm Sakshi Shaw</h1>
 <h3 align="center">Welcome to my GitHub page! The repository serves as a showcase for my work as a Data Scientist. Here you will find a collection of projects through which you can learn and skill yourself.</h3>
+<img align ="right"  width="400" src="https://github.com/SakshiShaw321/SakshiShaw321/assets/163022695/1a668349-2ca9-45f9-bed3-c1cd92c955a5"
+
+
 
 -I am open to collaboration. If you have any questions, suggestions, or would like to discuss a potential project, feel free to reach out to me 📫 **sakshishaw2002@gmail.com**
 
