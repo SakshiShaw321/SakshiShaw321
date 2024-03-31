@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sakshi Shaw</h1>
-<h3 align="center">Welcome to my GitHub page! The repository showcase my work as a Data Scientist. Here you will find a collection of projects checkout and upskill yourself.</h3> 
+<h3 align="center">Welcome to my GitHub page! The repository showcase my work as a Data Scientist. Here you will find a collection of projects you can checkout and upskill yourself.</h3> 
 
 <h1 align="centre">About Me</h1>
 <div style="display:flex; flex-direction:row">
